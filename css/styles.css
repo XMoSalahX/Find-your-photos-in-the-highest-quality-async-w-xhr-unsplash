@@ -173,7 +173,9 @@ ul {
     /* 1 */
 }
 
-@media (max-width:411px) {
+@media (max-width:411px) {}
+
+@media (max-width:1000px) {
     #search-form {
         flex-direction: column;
     }
